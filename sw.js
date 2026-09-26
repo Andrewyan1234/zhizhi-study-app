@@ -1,5 +1,5 @@
 /* 芝芝快点学 - 离线缓存 */
-const CACHE = 'zhizhi-v2';
+const CACHE = 'zhizhi-v3';
 const ASSETS = [
   './',
   './index.html',
